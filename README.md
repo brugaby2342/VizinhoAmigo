@@ -57,6 +57,24 @@ Os usuários podem:
   * Suporte visual com ícones ilustrativos a acompanhar todas as categorias.
   * Linguagem simples, acolhedora e objetiva.
 
+## 📚 Aprendizados
+Este projeto permitiu aplicar conceitos de:
+Experiência do Usuário (UX)
+Interface do Usuário (UI)
+Arquitetura da Informação
+Design System
+Acessibilidade Digital
+Prototipação de Produtos Digitais
+
+## ♿ Acessibilidade
+O projeto foi desenvolvido considerando:
+contraste adequado entre texto e fundo;
+botões com área de toque ampliada;
+linguagem simples e objetiva;
+navegação intuitiva;
+apoio visual através de ícones;
+redução da carga cognitiva.
+
 ## 🛠️ Ferramentas Utilizadas
 * **Figma:** Prototipagem de alta fidelidade e *wireframing*.
 * **Conceitos:** Acessibilidade (WCAG), *Laws of UX*, Arquitetura de Informação.
