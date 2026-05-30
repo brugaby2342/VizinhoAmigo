@@ -1,20 +1,42 @@
 
 # 🏡 VizinhoAmigo
 
+Conectando moradores através da colaboração, confiança e ajuda mútua.
+
 > **Conecte-se com quem está ao seu lado.**
 > Um projeto de UX/UI focado em criar ligações reais entre moradores de condomínios para troca de ajuda, suporte e serviços rápidos.
+
 
 <img width="93" height="237" alt="VizinhoAmigoFigma" src="https://github.com/user-attachments/assets/b2796c70-3c47-44b2-aed8-c1aceb6ab105" />
 
 
 ## 📖 Sobre o Projeto
-Muitas pessoas vivem próximas fisicamente, mas sem interação ou colaboração. Isso gera isolamento e dificuldade em resolver pequenas necessidades do quotidiano. O **VizinhoAmigo** nasce para resolver este problema, oferecendo um ambiente seguro (acesso via "Código do condomínio") para que os moradores possam pedir e oferecer ajuda de forma rápida e de confiança.
+Muitas pessoas vivem próximas fisicamente, mas sem interação ou colaboração. Isso gera isolamento e dificuldade em resolver pequenas necessidades do quotidiano. A proposta consiste em criar uma plataforma que facilite a interação entre moradores de condomínios e comunidades residenciais, permitindo que vizinhos solicitem ajuda, ofereçam habilidades e construam uma rede de apoio baseada em confiança e reputação.
 
 ## 🎯 Público-Alvo
 * Moradores de condomínios fechados.
 * Idosos que precisam de auxílio ocasional.
 * Pessoas com rotinas atarefadas.
 * Moradores dispostos a oferecer o seu tempo e as suas habilidades à comunidade.
+
+## 🎯 Problema
+Apesar de viverem próximos fisicamente, muitos moradores não possuem relacionamento com seus vizinhos.
+Isso gera dificuldades para:
+* encontrar ajuda rápida para tarefas simples;
+* pedir ferramentas emprestadas;
+* obter apoio em pequenos reparos;
+* encontrar alguém para cuidar de pets;
+* fortalecer o senso de comunidade.
+Além disso, grupos de mensagens costumam ser desorganizados e pouco eficientes para esse tipo de necessidade.
+
+## 💡 Solução
+O VizinhoAmigo centraliza pedidos de ajuda e ofertas de colaboração em uma plataforma intuitiva e segura.
+Os usuários podem:
+✅ Solicitar ajuda para necessidades do dia a dia
+✅ Oferecer habilidades à comunidade
+✅ Encontrar vizinhos especializados em diferentes áreas
+✅ Visualizar avaliações e reputação dos moradores
+✅ Construir relações de confiança dentro do condomínio
 
 ## 🗺️ Jornada do Utilizador (Fluxo Principal)
 1. **Onboarding:** Apresentação clara do propósito da aplicação.
@@ -39,9 +61,11 @@ Muitas pessoas vivem próximas fisicamente, mas sem interação ou colaboração
 * **Figma:** Prototipagem de alta fidelidade e *wireframing*.
 * **Conceitos:** Acessibilidade (WCAG), *Laws of UX*, Arquitetura de Informação.
 
-## 🔗 Links Úteis
-* [Protótipo Navegável no Figma](#) *(link)*
-* [Vídeo Pitch do Projeto](#) *(link)*
+## 📎 Protótipo
+Figma: [Link]
+
+## 🎥 Vídeo Pitch
+Vídeo: [Link]
 
 ---
 *Projeto académico desenvolvido por Gabriela Sartor - Rocketseat/UniFECAF (2026).*
