@@ -80,10 +80,10 @@ redução da carga cognitiva.
 * **Conceitos:** Acessibilidade (WCAG), *Laws of UX*, Arquitetura de Informação.
 
 ## 📎 Protótipo
-Figma: [Link]
+[[Figma](https://www.figma.com/design/2nsR1IU9nzVHDQrE2GJk9D/App-VizinhoAmigo?node-id=1-123&t=74a8yRHQ4FmP8p7W-1)]
 
 ## 🎥 Vídeo Pitch
-Vídeo: [Link]
+[[Vídeo](https://drive.google.com/file/d/1yh2SQns5ShuJfYATc51I9GHGhLeMii7O/view?usp=drive_link)]
 
 ---
 *Projeto académico desenvolvido por Gabriela Sartor - Rocketseat/UniFECAF (2026).*
